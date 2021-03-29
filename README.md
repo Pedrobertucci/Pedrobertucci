@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro Bertucci 👋
 
-I am Android Developer and game player. I love programming, play and Traveling. 
+I am Android Developer and CSGO Player. I love programming, play and Traveling. 
 
 - 🔭 I’m currently working on Polygon
 - 🌱 I’m currently learning @Flutter
