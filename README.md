@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Pedro Bertucci 👋
 
-I am Android Developer and CSGO Player. I love programming, play and Traveling. 
+I am Android Developer.
 
 - 🔭  I’m currently working on @Infraspeak
 - 🌱  I’m currently learning @Flutter
